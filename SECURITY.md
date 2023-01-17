@@ -1,4 +1,6 @@
 # Security Policy
+## REMINDER
+This project has GNU GPL licence so I dont give any security support for any releases made by third parties using my code.
 
 ## Supported Versions
 
