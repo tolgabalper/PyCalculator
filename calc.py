@@ -1,5 +1,5 @@
 welcome = "welcome to python calculator"
-rules = "do not use letters just reel numbers"
+rules = "do not use letters just rational numbers"
 xinput = "what is the first value do you want to use"
 yinput = "what is the second value do you want to use"
 # lets write hello page
