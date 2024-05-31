@@ -21,5 +21,6 @@
 - ++ Results now can be saved in forms of " pdf, txt, csv " formats.
 - ++ Results can be saved to a varible but when exited all deleted.
 - +- 2 rational numbers can be used
+- +- do not use letters just rational numbers
 - -- ~~only can calculate all sum, subtract, multiplication, division.~~
 - -- ~~at division it has round option to 0.xy from 0.xyzqwertu....~~
